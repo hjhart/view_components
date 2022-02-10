@@ -6,6 +6,7 @@
   "Primer::Alpha::Layout::Sidebar": "alpha",
   "Primer::Alpha::TabNav": "alpha",
   "Primer::Alpha::TabPanels": "alpha",
+  "Primer::Alpha::Tooltip": "alpha",
   "Primer::Alpha::UnderlineNav": "alpha",
   "Primer::Alpha::UnderlinePanels": "alpha",
   "Primer::BaseButton": "beta",
@@ -62,6 +63,6 @@
   "Primer::TimeAgoComponent": "beta",
   "Primer::TimelineItemComponent": "beta",
   "Primer::TimelineItemComponent::BadgeComponent": "alpha",
-  "Primer::Tooltip": "beta",
+  "Primer::Tooltip": "deprecated",
   "Primer::Truncate": "beta"
 }
